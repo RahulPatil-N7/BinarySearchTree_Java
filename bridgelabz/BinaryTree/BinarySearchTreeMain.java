@@ -4,7 +4,7 @@ public class BinarySearchTreeMain {
 
 	public static void main(String[] args) {
 	
-	//printing welcome message	
+	//printing welcome message
 	System.out.println("Welcome To Binary Search Tree Program.\n");
 	System.out.println("Binary Search Tree to add 56,30 & 70.");
 	
